@@ -4,6 +4,6 @@
   "Tinybit.CarState.Car_Back|block": "Reculer",
   "Tinybit.CarState.Car_Left|block": "Tourner à gauche",
   "Tinybit.CarState.Car_Right|block": "Tourner à droite",
-  "Tinybit.CarState.Car_Stop|block": "Stop",
+  "Tinybit.CarState.Car_Stop|block": "Stop"
 
 }
